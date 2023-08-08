@@ -1,0 +1,185 @@
+.navbar-header{
+    color: black;
+}
+
+.navbar{
+    padding-top: 1rem;
+    background-color: black;
+}
+
+.nav{
+    text-align: right;
+}
+
+.navbar-brand{
+    text-align: left;
+    padding-right: 5rem;
+    height: 3rem;
+    width:16rem;
+
+}
+.navbar-brand:hover{
+    color:black;
+}
+
+.active{
+    padding-right: 1rem;
+}
+
+.nav-link{
+    color: white;
+    padding-left: 10rem;
+    font-family: "Montserrate-light";
+}
+
+.nav-link:hover{
+    color: #ef8172;
+}
+
+/* home page */
+.home{
+    height:40rem;
+}
+.masthead{
+    text-align: center;
+    background-color: black;
+}
+h1{
+    font-family:fantasy,Copperplate;
+    font-size: 70px;
+}
+.intro{
+    color: #D43F52;
+}
+.icons{
+  
+  margin-bottom: 3rem;
+}
+
+header.masthead{
+    padding-top: 15rem;
+    padding-bottom: calc(10rem - 4.5rem)
+}
+.homecontent{
+    color: white;
+    padding-top: 2rem;
+}
+
+/* about */
+.about{
+    padding:3rem 3rem 3rem 3rem;
+}
+.aboutheading{
+    text-align: center;
+    padding:4rem;
+    size:3rem;
+}
+.aboutcontent{
+    margin:4rem;
+}
+
+/* events */
+.events{
+    background-color: black;
+    color:white;
+    border-top: 0px solid #090909;
+    text-align: center;
+    padding-top: 170px;
+    padding-bottom: 20px;
+    border-left: 0rem;
+    max-width: 2000px;
+}
+.eventimg{
+    width: 20rem;
+    height: 15rem;
+    border-radius: 2rem;
+}
+.event1{
+    border-radius: 2rem;
+    border-color: white;
+    
+}
+.event2{
+    border-radius: 2rem;
+    border-color: white;
+    
+}
+.chapter{
+    border-radius: 4rem;
+    border-color: #9747FE;
+    background-color: black;
+    color: white;
+    width: 8rem;
+    height: 3rem;
+}
+.workshop{
+    border-radius: 4rem;
+    border-color: #9747FE;
+    background-color: black;
+    color: white;
+    width: 8rem;
+    height: 3rem;
+}
+.register{
+    color: white;
+    background-color: #9747FE;
+    border-radius: 3rem;
+    border-color: black;
+    width: 8rem;
+    height: 3rem;
+}
+
+/* tshirt */
+.tshirt{
+    background-color: white;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+.tshirtimg{
+    width: 20rem;
+    height: 15rem;
+    border-radius: 2rem;
+    border-color: white;
+}
+
+/* footer */
+.footer{
+    background-color: black;
+    border-top: 0px solid #090909;
+    text-align: center;
+    padding-top: 170px;
+    padding-bottom: 20px;
+    border-left: 0rem;
+    max-width: 2000px;
+}
+.viticon{
+    height: 10rem;
+    width:20rem;
+}
+.copy{
+    text-align: left;
+    color: whitesmoke;
+}
+
+/* Eventpage */
+.eventh1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 4rem;
+    border-bottom: 0rem;
+}
+.search{
+    background-color: black;
+    border-top: 0px solid #090909;
+    text-align: center;
+    padding-top: 170px;
+    padding-bottom: 20px;
+    border-left: 0rem;
+    max-width: 2000px;
+}
+.input{
+    background-color: black;
+    color: white;
+    border-radius: 4rem;
+}
